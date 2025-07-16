@@ -1,4 +1,4 @@
-#  Understanding citation contexts with structural position awareness Dataset
+#  Understanding citation contexts with structural position awareness 
 
 This repository contains the dataset and resources used in this paper:
 
