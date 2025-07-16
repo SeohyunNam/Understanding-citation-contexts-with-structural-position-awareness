@@ -1,8 +1,8 @@
-#  Spatial-Aware Citation Intent Dataset
+#  Understanding citation contexts with structural position awareness Dataset
 
 This repository contains the dataset and resources used in this paper:
 
-**"Spatial-Aware Citation Intent Classification to Mitigate Class Imbalance"** (Submitted to MIWAI 2025)
+**"Understanding citation contexts with structural position awareness"** (Submitted to MIWAI 2025)
 
 ---
 
