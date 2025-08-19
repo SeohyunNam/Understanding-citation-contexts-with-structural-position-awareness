@@ -1,8 +1,8 @@
-#  Understanding citation contexts with structural position awareness 
+#  Where You Cite Matters: Section‑Aware Embeddings for Citation Intent Classification
 
 This repository contains the dataset and resources used in this paper:
 
-**"Understanding citation contexts with structural position awareness"** (Submitted to MIWAI 2025)
+**"Where You Cite Matters: Section‑Aware Embeddings for Citation Intent Classification"** (Submitted to MIWAI 2025)
 
 ---
 
