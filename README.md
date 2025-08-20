@@ -109,3 +109,9 @@ The construction of Preprocessed_Dataset.csv involved the following steps:
 4. Resolve citation IDs by linking in-text citation markers to the corresponding bibliography entries using bibid_check.json.
 
 5. Merge all information into a unified DataFrame, preserving paper_id, sentence, section_cat, and the simplified intent, and export it as Preprocessed_Dataset.csv.
+
+## Acknowledgement
+
+This repository is based on the original dataset ([https://github.com/agaritto](https://github.com/agaritto/Article-Ranking-with-Location-based-Weight)).  
+We processed and extended the dataset for further research.  
+
