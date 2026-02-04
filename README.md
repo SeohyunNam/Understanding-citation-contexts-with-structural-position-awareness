@@ -118,7 +118,8 @@ We processed and extended the dataset for further research.
 ## Citation
 If you find this work useful, please cite our paper:
 
-```@INPROCEEDINGS{11365141,
+```
+@INPROCEEDINGS{11365141,
   author={Nam, Seohyun and Phan, Tuan Anh and Kim, Gwanpil and Jung, Jason J. and Bui, Khac-Hoai Nam},
   booktitle={2025 RIVF International Conference on Computing and Communication Technologies (RIVF)}, 
   title={Where You Cite Matters: Section-Aware Embeddings for Citation Intent Classification}, 
